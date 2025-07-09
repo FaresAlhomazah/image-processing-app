@@ -112,9 +112,6 @@ tkinter (included with Python)
 - `save_image_with_dialog()`: Interactive save with file dialog
 - `save_image()`: Quick save to default location
 
-## Interface Language
-
-The application supports both Arabic and English text, with Arabic being the primary language for the interface elements and English for technical terms and file operations.
 
 ## Notes
 
@@ -127,6 +124,3 @@ The application supports both Arabic and English text, with Arabic being the pri
 
 - **Email:** faresalhomazzah@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/fares-abdulghani-alhomazah-6b1802288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
-
-
